@@ -23,8 +23,8 @@ mllib = ["numpy (>=1.7)"]
 sql = ["pandas (>=0.23.2)", "pyarrow (>=0.15.1)"]
 
 [metadata]
-content-hash = "0336e8976500449d044d128f470b2fc923f935b43547cc022d9c829683d7b483"
-python-versions = "^3.8"
+content-hash = "ce2e8a0e23cc5375a767675fb584e4ad483a95cc73682f044916a1797924387f"
+python-versions = "^3.7"
 
 [metadata.files]
 py4j = [
